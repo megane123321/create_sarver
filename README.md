@@ -5,7 +5,7 @@ create系を中心にそれを補助するmodが入っている。
 ## 環境
 forge-1.19.2-43.4.0
 
-## 導入mod
+## 導入mod (<a href="導入mod.zip" download>一括ダウンロード</a>)
 * [IkkatsuHakai](https://www.curseforge.com/minecraft/mc-mods/break-all-of-the-same-block-and-more)
 * [IkkatsuHakai Axe](https://www.curseforge.com/minecraft/mc-mods/ikkatsuhakai-axe)
 * [IkkatsuHakai Shovel](https://www.curseforge.com/minecraft/mc-mods/digall)
