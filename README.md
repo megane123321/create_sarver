@@ -1,4 +1,4 @@
-# modでminecraftを掻き回す
+# createで黄昏を蹂躙する
 わたしのサーバーに入ってるmodを載せるページ。
 create系を中心にそれを補助するmodが入っている。
 
@@ -25,3 +25,5 @@ forge-1.19.2-43.4.0
 * [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap)
 * [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 * [Create: Steam 'n' Rails](https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails)
+* [Create: Ender Transmission](https://www.curseforge.com/minecraft/mc-mods/create-ender-transmission)
+* [Create: Netherless (Forge)](https://www.curseforge.com/minecraft/mc-mods/create-netherless)
